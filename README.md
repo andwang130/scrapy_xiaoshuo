@@ -1,0 +1,2 @@
+# scrapy_xiaoshuo
+用scrapy框架写的爬取全站小说的爬虫
